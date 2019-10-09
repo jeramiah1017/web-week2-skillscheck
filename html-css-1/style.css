@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    height: 200vh;
+    padding: 0;
+}
+.header{
+   /* margin: 0;
+   padding: 0; */
+}
+
+
+.boxHead{
+    background: grey;
+    box-sizing: border-box;
+    height: 100px;
+    position: relative
+
+}
+    
+.head{
+    margin-top: 0;
+    color: white;
+    margin-left: 50px
+}
+
+ul{
+  float:right;
+    list-style: none;
+    display: flex;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+
+} 
